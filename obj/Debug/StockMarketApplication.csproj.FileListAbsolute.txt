@@ -1,0 +1,14 @@
+C:\Users\Riley\Documents\Visual Studio 2012\Projects\StockMarketApplication\bin\Debug\StockMarketApplication.exe.config
+C:\Users\Riley\Documents\Visual Studio 2012\Projects\StockMarketApplication\obj\Debug\StockMarketApplication.csprojResolveAssemblyReference.cache
+C:\Users\Riley\Documents\Visual Studio 2012\Projects\StockMarketApplication\obj\Debug\StockMarketApplication.Properties.Resources.resources
+C:\Users\Riley\Documents\Visual Studio 2012\Projects\StockMarketApplication\obj\Debug\StockMarketApplication.csproj.GenerateResource.Cache
+C:\Users\Riley\Documents\Visual Studio 2012\Projects\StockMarketApplication\bin\Debug\StockMarketApplication.exe
+C:\Users\Riley\Documents\Visual Studio 2012\Projects\StockMarketApplication\bin\Debug\StockMarketApplication.pdb
+C:\Users\Riley\Documents\Visual Studio 2012\Projects\StockMarketApplication\obj\Debug\StockMarketApplication.exe
+C:\Users\Riley\Documents\Visual Studio 2012\Projects\StockMarketApplication\obj\Debug\StockMarketApplication.pdb
+C:\Users\Riley\Documents\Visual Studio 2012\Projects\StockMarketApplication\obj\Debug\StockMarketApplication.placeBidOrderForm.resources
+C:\Users\Riley\Documents\Visual Studio 2012\Projects\StockMarketApplication\obj\Debug\StockMarketApplication.MarketByOrder.resources
+C:\Users\Riley\Documents\Visual Studio 2012\Projects\StockMarketApplication\obj\Debug\StockMarketApplication.StockSecuritiesExchange.resources
+C:\Users\Riley\Documents\Visual Studio 2012\Projects\StockMarketApplication\obj\Debug\StockMarketApplication.StockStateSummary.resources
+C:\Users\Riley\Documents\Visual Studio 2012\Projects\StockMarketApplication\obj\Debug\StockMarketApplication.placeAskOrderForm.resources
+C:\Users\Riley\Documents\Visual Studio 2012\Projects\StockMarketApplication\obj\Debug\StockMarketApplication.MarketByPrice.resources
